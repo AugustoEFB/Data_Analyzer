@@ -1,0 +1,22 @@
+Data Summary:
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 100000 entries, 0 to 99999
+Data columns (total 2 columns):
+ #   Column  Non-Null Count   Dtype  
+---  ------  --------------   -----  
+ 0   r       100000 non-null  float64
+ 1   xn      100000 non-null  float64
+dtypes: float64(2)
+memory usage: 1.5 MB
+
+
+Descriptive Statistics:
+                   r             xn
+count  100000.000000  100000.000000
+mean        2.000000       0.385056
+std         1.154718       0.287734
+min         0.000000       0.000000
+25%         1.000000       0.001657
+50%         2.000000       0.450738
+75%         3.000000       0.606212
+max         4.000000       0.998469
